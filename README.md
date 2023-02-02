@@ -19,3 +19,4 @@ To-do list:
 - Write a neat music player to play along with the GOL (what else would I call the "musiconway"? It's intended to be something like a party piece.)
 - A more friendly GUI
 - Colors for different notes.
+- One-file .exe!
