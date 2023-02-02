@@ -2,7 +2,7 @@
 The earliest version of Musiconway.
 A party piece under construction using librosa and pygame
 
-Many functions ahead, but for a start, this program just bounces to the tempo of your song.
+Many functions ahead, but for a start, this program simply bounces to the tempo of your song.
 
 I feel there are still much more potential than tempo, but I need to spend more time on learning librosa. Many functions were hindered since librosa on my Windows could not locate the path to ffmpeg binaries, even after a $PATH has been added.
 
