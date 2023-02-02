@@ -1,10 +1,8 @@
 # musiconway
 The earliest version of Musiconway.
-A party piece under construction using librosa and pygame
+A musical cell pattern generator using librosa and pygame
 
-Many functions ahead, but for a start, this program simply bounces to the tempo of your song.
-
-I feel there are still much more potential than tempo, but I need to spend more time on learning librosa. Many functions were hindered since librosa on my Windows could not locate the path to ffmpeg binaries, even after a $PATH has been added.
+Many features TBA, but for a start, this is simply a random pattern that dissipates along the tempo of your song, (which suddenly sounds more pessimistic than fun now that I think about it). Development was hindered since librosa on my Windows could not locate the path to ffmpeg binaries, even after a $PATH has been added.
 
 The Conway code belongs to Coder Space in his Conway GOL tutorial (https://www.youtube.com/watch?v=lk1_h2_GLv8) - the cleanest Python Conway code I've seen. :)
 
